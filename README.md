@@ -9,9 +9,13 @@ The Blood Bank Management System (BBMS) is an application designed to facilitate
 - **Data Visualization**: Integrates Tableau visualizations to offer comprehensive data analytics and reporting capabilities.
 - **Interactive UI**: Delivers a streamlined user experience with a clean and navigable graphical interface.
 
-![image](https://github.com/user-attachments/assets/e27491ac-82f5-468a-92c1-59ab78fb2f72) ![image](https://github.com/user-attachments/assets/e0e62d78-6ddc-489a-98e2-2c6366b1f531)
-![image](https://github.com/user-attachments/assets/0cf43586-1edd-4233-a028-0ebe05933947) ![image](https://github.com/user-attachments/assets/e9bd3ec3-6d54-4df7-b5a2-e2682c8889ef)
-![image](https://github.com/user-attachments/assets/89b493a1-f193-4bbc-b84b-eeb58c52a513) ![image](https://github.com/user-attachments/assets/db8e3b78-ca93-42cc-8e90-22e54c2959a2) ![image](https://github.com/user-attachments/assets/bc464cc6-461a-48ec-9f15-4e7e06c30bc6)
+![image](https://github.com/user-attachments/assets/e27491ac-82f5-468a-92c1-59ab78fb2f72)
+![image](https://github.com/user-attachments/assets/e0e62d78-6ddc-489a-98e2-2c6366b1f531)
+![image](https://github.com/user-attachments/assets/0cf43586-1edd-4233-a028-0ebe05933947)
+![image](https://github.com/user-attachments/assets/e9bd3ec3-6d54-4df7-b5a2-e2682c8889ef)
+![image](https://github.com/user-attachments/assets/89b493a1-f193-4bbc-b84b-eeb58c52a513)
+![image](https://github.com/user-attachments/assets/db8e3b78-ca93-42cc-8e90-22e54c2959a2)
+![image](https://github.com/user-attachments/assets/bc464cc6-461a-48ec-9f15-4e7e06c30bc6)
 
 
 
